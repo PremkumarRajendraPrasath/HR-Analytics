@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR Analytics
 The HR Analytics project conducted using Power BI aims to analyze employee data to derive insights that can inform strategic decision-making within the organization.
 
 Data Cleaning:
